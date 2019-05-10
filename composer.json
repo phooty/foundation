@@ -1,5 +1,5 @@
 {
-    "name": "phooty/core",
+    "name": "phooty/foundation",
     "description": "Foundation classes for Phooty app",
     "type": "library",
     "license": "MIT",
